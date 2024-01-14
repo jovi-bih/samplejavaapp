@@ -1,1 +1,2 @@
-Sample Java Applicaiton V3.6.1
+Sample Java Application V3.6.1
+Devops must change my life
